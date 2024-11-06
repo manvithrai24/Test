@@ -15,5 +15,8 @@ Welcome to my GitHub! I'm a passionate Computer Science Student always looking t
 - Bachelor of Engineering 
   <br> Computer Science and Engineering</br>
   M S Ramaiah Institute of Technology, 2026
+- Diploma
+  <br> Computer Science and Engineering</br>
+  Jain Polytechnic Belgaum, 2023
 
 
